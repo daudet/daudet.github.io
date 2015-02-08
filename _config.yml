@@ -1,2 +1,27 @@
-name: David Audet
-markdown: kramdown
+
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            'David Audet'
+tagline:          'David Audet'
+description:      'Hello, my Name is David and I am a software developer in Vancover, B.C.'
+url:              ''
+baseurl:          /
+
+author:
+  name:           'David Audet'
+  url:            ''
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           ''
