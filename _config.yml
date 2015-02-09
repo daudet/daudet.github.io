@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            David Audet
 tagline:          'Software Developer'
-description:      'Hi there, I am a software developer living in Vancouver, B.C.'
+description:      <img src="http://www.gravatar.com/avatar/ba0f2d1d32fe95ee0b53a723e3592e2b.png" />
 url:              
 baseurl:          /
 
