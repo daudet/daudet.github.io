@@ -75,6 +75,19 @@ html {
   color: #fff;
 }
 
+/* Circular Sidebar Image */
+.circularProfilePic {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    background: url("http://www.gravatar.com/avatar/ba0f2d1d32fe95ee0b53a723e3592e2b.png?s=200") no-repeat;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
